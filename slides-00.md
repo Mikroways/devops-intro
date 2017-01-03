@@ -2,7 +2,7 @@
 #DevOps 
 ##Una breve introducción
 <small>
-https://chrodriguez.github.io/devops-short-intro/
+http://devops-intro.presentaciones.mikroways.net
 </small>
 ---
 ## Agenda
